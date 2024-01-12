@@ -1,3 +1,5 @@
 this is feature 1 
 adding new feature 
 thanks
+
+adding more content into the file thank you ! this content is being sent into stash and not commited.
